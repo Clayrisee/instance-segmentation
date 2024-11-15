@@ -1,0 +1,12 @@
+torchvision
+torch
+Pillow
+opencv-python
+matplotlib
+segmentation-models-pytorch
+torchmetrics
+fastapi
+uvicorn
+pydantic
+albumentations
+python-multipart
